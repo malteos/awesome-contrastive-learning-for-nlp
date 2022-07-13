@@ -1,6 +1,9 @@
 # Awesome Contrastive Learning for NLP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 A collection of papers about contrastive learning for natural language processing.
+
+**Please feel free to create a pull request if you would like to add other awesome papers.**
 
 ## 2012
 - [A fast and simple algorithm for training neural probabilistic language models](https://arxiv.org/abs/1206.6426)
